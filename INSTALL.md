@@ -191,8 +191,8 @@ Le site de test devrait obtenir un score d'environ **40-45%** (Risque Modéré �
 
 | Cible | Score attendu | Niveau ANSSI |
 |-------|---------------|--------------|
-| tesla.com | ~55% | Risque Modéré |
-| asmonaco.com | ~55% | Risque Modéré |
+| tesla.com | ~75% | Risque Modéré |
+| asmonaco.com | ~75% | Risque Modéré |
 | site-test (Docker) | ~40-45% | Risque Modéré / Élevé |
 
 > **Note** : Meme les sites professionnels comme tesla.com ou asmonaco.com n'obtiennent pas 90-100% car le scanner détecte des éléments courants (headers manquants, technologies visibles) qui sont normaux mais techniquement des surfaces d'attaque. Un score de 55% pour un site pro est un bon résultat dans notre barème.
